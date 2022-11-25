@@ -1,0 +1,4 @@
+repository "RacingDemo@xodhks0423@cloud"
+  path "/"
+    br "/main"
+    co "/main"
